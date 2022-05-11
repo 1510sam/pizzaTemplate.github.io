@@ -22,9 +22,6 @@ html body {
 #header:hover {
    opacity: 1.0;
 }
-#nav {
-
-}
 #nav li {
     display: inline-block;
     list-style-type: none;
